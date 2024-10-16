@@ -1,1 +1,2 @@
-Consolelog('Version1')
+Consolelog('index.js')
+Consolelog('Version12')
